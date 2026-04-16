@@ -38,3 +38,4 @@ C:\Users\Perla Yu\Desktop\BMI Checker\BMIChecker\bin\Debug\net8.0\Swashbuckle.As
 C:\Users\Perla Yu\Desktop\BMI Checker\BMIChecker\obj\Debug\net8.0\BMIChecker.csproj.AssemblyReference.cache
 C:\Users\Perla Yu\Desktop\BMI Checker\BMIChecker\obj\Debug\net8.0\BMIChecker.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Perla Yu\Desktop\BMI Checker\BMIChecker\obj\Debug\net8.0\BMIChecker.csproj.Up2Date
+C:\Users\Perla Yu\Desktop\BMI Checker\BMIChecker\obj\Debug\net8.0\BMIChecker.sourcelink.json

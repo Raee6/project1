@@ -1,7 +1,7 @@
     :root {
             --primary: hsl(0, 0%, 98%); 
             --success: #10b981; 
-            --warning: #f59e0b; 
+            --warning: hsl(60, 100%, 50%); 
             --danger: #ef4444; 
             --white: hsl(120, 1%, 36%);
             --light: #fafcff; 
@@ -72,7 +72,7 @@
         .result.show { opacity: 1; transform: translateY(0); }
 
         .result.normal { background: var(--success); color: #e5ff1f; border-color: lab(97.58% 0.01 -0.01); }
-        .result.moderate { background: var(--warning); color: #856404; border-color: #e8bc2b; }
+        .result.moderate { background: var(--warning); color: #eeff06; border-color: #FFED29; }
         .result.obese { background: var(--danger); color: #871521; border-color: #ea3c4d; }
 
         .bmi-value { font-size: 32px; font-weight: 800; margin: 10px 0; }
